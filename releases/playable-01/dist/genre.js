@@ -1,7 +1,2 @@
-                                                                                                        
-                                                                                        
-                                                                                         
-                                                                                            
-                                                                        
 export const GENRE = "range";
                                  
