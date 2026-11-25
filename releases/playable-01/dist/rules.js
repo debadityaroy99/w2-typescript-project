@@ -1,11 +1,4 @@
-                                                                                         
-  
-                                                                                          
-                                                                        
-  
-                                                                                                 
-                                                                                                 
-                                                 
+                                                
 export function initialState(config) {
     return { ammunition: config.ammunition, score: 0, shots: 0, status: "active" };
 }
