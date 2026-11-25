@@ -1,9 +1,9 @@
-// SUPPLIED: state-text rendering. You decide WHICH state reaches paint(); this file decides how it looks.
-//
-// paint(state)          lists every public field of the state you pass, e.g. "movesRemaining: 5".
-//                        Painting the same state twice is safe. It never changes the object it is given.
-// text(region, message)  replaces the words of one message region (textContent, never HTML).
-// identify(runId)        shows the current run ID and points the "Local event view" link at it.
+                                                                                                          
+  
+                                                                                                  
+                                                                                                         
+                                                                                             
+                                                                                                
 function region(id) {
     const found = document.getElementById(id);
     if (!found)

@@ -15,6 +15,9 @@ body { margin: 0 auto; max-width: 52rem; padding: 1rem 1.25rem 3rem; }
 h1 { font-size: 1.75rem; margin-bottom: .25rem; }
 h2 { font-size: 1.15rem; margin: 0 0 .5rem; }
 section { background: var(--panel); border-radius: .4rem; padding: .9rem 1rem; margin: 1rem 0; }
+.intro { border-top: .25rem solid var(--accent); }
+.intro h3 { font-size: 1rem; margin: .8rem 0 .25rem; }
+.intro ol { margin: 0; padding-left: 1.4rem; }
 .run { color: var(--muted); }
 .message { border-left: .3rem solid var(--accent); padding-left: .6rem; min-height: 1.5em; }
 

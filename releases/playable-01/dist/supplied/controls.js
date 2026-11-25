@@ -1,13 +1,13 @@
-// SUPPLIED: button creation and input registration. You call connect() once from src/app.ts.
-//
-// connect(genre, handlers) builds ONE of the two domain-action panels inside #actions:
-//   treasure -> North / East / South / West buttons, each calling handlers.dispatch({ type: "move", direction })
-//   range    -> Hit / Miss buttons, each calling handlers.dispatch({ type: "hit" }) or ({ type: "miss" })
-// and wires the lifecycle buttons already in index.html (#start, #restart, #reload).
-// Buttons are ordinary <button> elements, so they work with a keyboard (Tab, Enter/Space);
-// no reflex timing or aiming is involved.
-//
-// playable(enabled) enables or disables the domain-action buttons only. Lifecycle buttons stay usable.
+                                                                                             
+  
+                                                                                       
+                                                                                                                 
+                                                                                                          
+                                                                                     
+                                                                                           
+                                          
+  
+                                                                                                       
 const TREASURE_BUTTONS = [
     ["North", { type: "move", direction: "north" }],
     ["East", { type: "move", direction: "east" }],
